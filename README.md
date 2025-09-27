@@ -71,7 +71,7 @@ if final_check:
             ending = "You are on academic probation."
 else:
     ending = "Final check skipped."
-
+# AI helped me with the use of GIT
 print(f"\nGame Over! {student_name}, here are your final stats:")
 print(f"GPA: {current_gpa}")
 print(f"Study Hours: {study_hours}")
